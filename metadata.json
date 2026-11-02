@@ -1,0 +1,8 @@
+{
+  "name": "Remix NetSubnet Vault",
+  "description": "Professional IPv4 & VLSM Subnet Calculator with an integrated Ruang Rahasia (Private Vault, App Vault, Biometrics, and Non-SQL Cloud Engine)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
